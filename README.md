@@ -100,3 +100,12 @@ EVL-data/
 ├── Tableau/ → Dashboard TWBX
 ├── excel/ → Cleaned & merged dataset
 └── README.md
+```
+
+## ⭐ Skills Demonstrated
+
+- Building a Tableau dashboard from raw government data
+- Creating interactive views with filters, sets, and parameters
+- Performing geospatial analysis using generated latitude/longitude
+- Storytelling with visuals around EV market adoption and regional patterns
+- Writing clear technical documentation for a BI project
