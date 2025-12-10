@@ -64,7 +64,7 @@ In Tableau, the data model uses:
   - **Plug-in Hybrid Electric Vehicle (PHEV)**
 - Quickly shows which powertrain type dominates registrations.
 
-![Dashboard – Overview](screenshots/evl-dashboard.png)
+![Dashboard – Overview](screenshots/dashboard.png)
 ```
 
 ### 2️⃣ Make (Brand) Analysis
@@ -72,7 +72,7 @@ In Tableau, the data model uses:
 - Horizontal bar chart of EV count by Make.
 - Shows Tesla as the clear leader, followed by Nissan, Chevrolet, Ford, BMW, Kia, Toyota and others.
 
-![Make and Model](screenshots/make-model-bar.png)
+![Make and Model](screenshots/make-and-model.png)
 ```
 
 ### 3️⃣ Top 10 Counties
@@ -83,15 +83,9 @@ In Tableau, the data model uses:
 ![Top 10 Counties](screenshots/top-10-counties.png)
 ```
 
-### 4️⃣ Vehicles Owned by Postcode (Map)
-
-- Map view of EV locations by postal code.
-- Bubble size indicates EV population, with clusters around major metro areas in Washington.
-
-![Vehicles by Postcode](screenshots/vehicles-by-postcode-map.png)
 ```
 
-### 5️⃣ Vehicle Year and Type
+### 4️⃣ Vehicle Year and Type
 
 - Stacked column chart by Model Year and Vehicle Type.
 - Highlights rapid growth of EV registrations in recent years (e.g., 2019–2022).
@@ -100,7 +94,7 @@ In Tableau, the data model uses:
 ```
 
 ## 📁 Project Structure
-```
+
 Netflix-BI/
 │
 ├── PowerBI/ → Dashboard PBIX (only snapshots)
