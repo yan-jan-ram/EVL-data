@@ -1,6 +1,6 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Tool](https://img.shields.io/badge/Built%20with-Tableau-blue?logo=tableau)
-![Domain](https://img.shields.io/badge/Domain-Electric%20Vehicles-lightgrey)
+![Domain](https://img.shields.io/badge/Domain-Electric%20Vehicles-darkblue)
 
 # 🚗 EVL | Washington State Electric Vehicle Insights (Tableau)
 
