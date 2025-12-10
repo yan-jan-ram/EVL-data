@@ -89,9 +89,9 @@ In Tableau, the data model uses:
 
 ## 📁 Project Structure
 ```
-Netflix-BI/
+EVL-data/
 │
-├── PowerBI/ → Dashboard PBIX (only snapshots)
-├── excel/ → Cleaned & merged dataset (too large to include in github)
 ├── screenshots/ → Images for README
+├── Tableau/ → Dashboard TWBX
+├── excel/ → Cleaned & merged dataset
 └── README.md
