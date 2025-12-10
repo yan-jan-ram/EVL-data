@@ -66,3 +66,8 @@ In Tableau, the data model uses:
 
 ```md
 ![Dashboard – Overview](screenshots/evl-dashboard.png)
+```
+
+### 2️⃣ Make (Brand) Analysis
+Horizontal bar chart of EV count by Make.
+Shows Tesla as the clear leader, followed by Nissan, Chevrolet, Ford, BMW, Kia, Toyota and others.
