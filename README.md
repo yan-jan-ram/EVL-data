@@ -65,25 +65,20 @@ In Tableau, the data model uses:
 - Quickly shows which powertrain type dominates registrations.
 
 ![Dashboard – Overview](screenshots/dashboard.png)
-```
-```
+
 ### 2️⃣ Make (Brand) Analysis
 
 - Horizontal bar chart of EV count by Make.
 - Shows Tesla as the clear leader, followed by Nissan, Chevrolet, Ford, BMW, Kia, Toyota and others.
 
 ![Make and Model](screenshots/make-and-model.png)
-```
-```
+
 ### 3️⃣ Top 10 Counties
 
 - Bar chart of Top 10 Counties by EV count.
 - King County has the highest adoption, followed by Snohomish, Pierce, Clark, Kitsap, and others.
 
 ![Top 10 Counties](screenshots/top-10-countries.png)
-```
-
-```
 
 ### 4️⃣ Vehicle Year and Type
 
@@ -91,7 +86,6 @@ In Tableau, the data model uses:
 - Highlights rapid growth of EV registrations in recent years (e.g., 2019–2022).
 
 ![Year and Type](screenshots/year-and-type.png)
-```
 
 ```
 ## 📁 Project Structure
@@ -102,4 +96,3 @@ Netflix-BI/
 ├── excel/ → Cleaned & merged dataset (too large to include in github)
 ├── screenshots/ → Images for README
 └── README.md
-```
