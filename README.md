@@ -66,7 +66,7 @@ In Tableau, the data model uses:
 
 ![Dashboard – Overview](screenshots/dashboard.png)
 ```
-
+```
 ### 2️⃣ Make (Brand) Analysis
 
 - Horizontal bar chart of EV count by Make.
@@ -74,13 +74,13 @@ In Tableau, the data model uses:
 
 ![Make and Model](screenshots/make-and-model.png)
 ```
-
+```
 ### 3️⃣ Top 10 Counties
 
 - Bar chart of Top 10 Counties by EV count.
 - King County has the highest adoption, followed by Snohomish, Pierce, Clark, Kitsap, and others.
 
-![Top 10 Counties](screenshots/top-10-counties.png)
+![Top 10 Counties](screenshots/top-10-countries.png)
 ```
 
 ```
@@ -93,6 +93,7 @@ In Tableau, the data model uses:
 ![Year and Type](screenshots/year-and-type.png)
 ```
 
+```
 ## 📁 Project Structure
 
 Netflix-BI/
