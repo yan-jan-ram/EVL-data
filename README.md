@@ -69,5 +69,39 @@ In Tableau, the data model uses:
 ```
 
 ### 2️⃣ Make (Brand) Analysis
-Horizontal bar chart of EV count by Make.
-Shows Tesla as the clear leader, followed by Nissan, Chevrolet, Ford, BMW, Kia, Toyota and others.
+
+- Horizontal bar chart of EV count by Make.
+- Shows Tesla as the clear leader, followed by Nissan, Chevrolet, Ford, BMW, Kia, Toyota and others.
+
+```md
+![Make and Model](screenshots/make-model-bar.png)
+```
+
+### 3️⃣ Top 10 Counties
+
+- Bar chart of Top 10 Counties by EV count.
+- King County has the highest adoption, followed by Snohomish, Pierce, Clark, Kitsap, and others.
+
+```md
+![Top 10 Counties](screenshots/top-10-counties.png)
+```
+
+### 4️⃣ Vehicles Owned by Postcode (Map)
+
+- Map view of EV locations by postal code.
+- Bubble size indicates EV population, with clusters around major metro areas in Washington.
+
+```md
+![Vehicles by Postcode](screenshots/vehicles-by-postcode-map.png)
+```
+
+### 5️⃣ Vehicle Year and Type
+
+- Stacked column chart by Model Year and Vehicle Type.
+- Highlights rapid growth of EV registrations in recent years (e.g., 2019–2022).
+
+```md
+![Year and Type](screenshots/year-and-type.png)
+```
+
+📁 Project Structure
