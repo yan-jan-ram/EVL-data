@@ -99,9 +99,8 @@ In Tableau, the data model uses:
 ![Year and Type](screenshots/year-and-type.png)
 ```
 
-```
 ## 📁 Project Structure
-
+```
 Netflix-BI/
 │
 ├── PowerBI/ → Dashboard PBIX (only snapshots)
