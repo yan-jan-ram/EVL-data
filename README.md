@@ -55,6 +55,13 @@ In Tableau, the data model uses:
 
 ---
 
+## 📊 Tableau Dashboard
+
+- This Tableau dashboard visualizes Electric Vehicle adoption in Washington State, leveraging publicly available EV registration data.
+- The dashboard helps stakeholders understand EV distribution, top manufacturers, model popularity, and geographic adoption patterns.
+
+![dashboard](screenshots/dashboard.png)
+
 ## 📊 Dashboard Highlights
 
 ### 1️⃣ Vehicle Type Distribution
@@ -63,8 +70,6 @@ In Tableau, the data model uses:
   - **Battery Electric Vehicle (BEV)**
   - **Plug-in Hybrid Electric Vehicle (PHEV)**
 - Quickly shows which powertrain type dominates registrations.
-
-![Dashboard – Overview](screenshots/dashboard.png)
 
 ### 2️⃣ Make (Brand) Analysis
 
